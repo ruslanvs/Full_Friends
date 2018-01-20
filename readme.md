@@ -1,0 +1,1 @@
+SQL - Flask educational assignement at Coding Dojo
